@@ -38,3 +38,9 @@ monitorableexecutor旨在解决JVM内线程池健康状况难以监控的问题�
 * 邮件(jlee381344197#gmail.com, 把#换成@)
 * QQ: 381344197
 * github博客：http://leesir.github.io/
+
+***
+
+##License
+
+See the LICENSE.md file for license rights and limitations (MIT).
